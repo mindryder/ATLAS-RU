@@ -2,7 +2,7 @@
 Полноценный русификатор игры ATLAS, с добавлением стилизованных пиратских шрифтов
 https://store.steampowered.com/app/834910/ATLAS/
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту](https://i.imgur.com/4tSx6Vk.jpeg)
 
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
