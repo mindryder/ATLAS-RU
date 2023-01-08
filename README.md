@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="250">
 
 ![Icon](https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png)
 
