@@ -1,9 +1,8 @@
-# ATLAS-RU-MindRyder
 <div align="center">
 
 ![Icon](https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png)
 
-#ATLAS-RU-MindRyder
+# ATLAS-RU-MindRyder
 </div>
 <p align="center"><img src="https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png" width="250" alt="atlas game logo" align="center" style="max-width: 100%;"></p>
 
