@@ -1,6 +1,6 @@
 # ATLAS-RU-MindRyder
 
-<img src="https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png" width="350" alt="atlas game logo" align="center" style="max-width: 100%;">
+<p align="center"><img src="https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png" width="350" alt="atlas game logo" align="center" style="max-width: 100%;"></p>
 
 Полноценный русификатор игры ATLAS, с добавлением стилизованных пиратских шрифтов
 https://store.steampowered.com/app/834910/ATLAS/
