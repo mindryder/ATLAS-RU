@@ -18,3 +18,10 @@ https://store.steampowered.com/app/834910/ATLAS/
 
 Так же, принимаются пожертвования в виде подарков, скинов Steam:
 https://steamcommunity.com/id/mindrider
+
+Места перевода для которых разработчики игры не выложили переменные (невозможно перевести) для перевода:
+
+В меню:
+- COMPANY CHAT:
+- TOGGLE MARKER TEXT:
+- ENABLE DETAILED GRAPHICS
