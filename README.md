@@ -25,3 +25,8 @@ https://steamcommunity.com/id/mindrider
 - COMPANY CHAT:
 - TOGGLE MARKER TEXT:
 - ENABLE DETAILED GRAPHICS
+
+В режиме нанесения татуировок:
+APPLY TATTOO
+
+
