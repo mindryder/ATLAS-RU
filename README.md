@@ -21,15 +21,8 @@ https://steamcommunity.com/id/mindrider
 
 Места перевода для которых разработчики игры не выложили переменные (невозможно перевести) для перевода:
 
-В меню:
-- COMPANY CHAT:
-- TOGGLE MARKER TEXT:
-- ENABLE DETAILED GRAPHICS
-
-В режиме нанесения татуировок:
-APPLY TATTOO
-
-Ресурс:
-Toxic Sludge
+В меню: COMPANY CHAT:, TOGGLE MARKER TEXT:, ENABLE DETAILED GRAPHICS
+В режиме нанесения татуировок: APPLY TATTOO
+Ресурс: Toxic Sludge, Nitro Fertilizer
 
 
