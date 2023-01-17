@@ -29,4 +29,7 @@ https://steamcommunity.com/id/mindrider
 В режиме нанесения татуировок:
 APPLY TATTOO
 
+Ресурс:
+Toxic Sludge
+
 
