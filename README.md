@@ -128,3 +128,5 @@
 ![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_1.png)
 ![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_2.png)
 ![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_3.png)
+
+[[Обратно вверх]](https://github.com/mindryder/ATLAS-RU#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
