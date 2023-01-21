@@ -77,7 +77,7 @@
 
 ## Скачать
 
-Последнюю версию всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
+Последнюю версию архива перевода, всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
 
 ## Скриншоты
 
