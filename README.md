@@ -23,6 +23,4 @@ https://steamcommunity.com/id/mindrider
 
 ## Скриншоты с альтернативным шрифтом
 
-![Альтернативный Шрифт](https://i.imgur.com/4tSx6Vk.jpeg)
-
 ![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
