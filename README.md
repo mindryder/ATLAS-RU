@@ -13,8 +13,6 @@
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
 [![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
 
-![Alt](https://repobeats.axiom.co/api/embed/1642cdaf7dd38b7d6ecf04c34b1f479b5f952ae7.svg "Repobeats analytics image")
-
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
 ## Описание
 
