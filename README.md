@@ -37,7 +37,7 @@
 ### Вариант Отдельным Языком:
 
 1. Переместить папку ru8 в директорию с локализациями игры 
-```ps
+```
 (ВАШ ПУТЬ К ИГРЕ\steamapps\common\ATLAS\ShooterGame\Content\Localization\Game\)
 ```
 
