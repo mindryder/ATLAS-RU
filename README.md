@@ -26,8 +26,8 @@
 
 Силы сами себя не найдут. Если решили помочь в развитии перевода материально. 
 
-Пожертвования через [Donation Alerts](https://www.donationalerts.com/r/mindryder)
-Так же, принимаются пожертвования в виде [гифтов, скинов Steam](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
+Пожертвования через [Donation Alerts](https://www.donationalerts.com/r/mindryder).
+Так же, принимаются пожертвования в виде [гифтов, скинов Steam](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e).
 
 ## Установка
 
