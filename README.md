@@ -19,10 +19,6 @@ https://store.steampowered.com/app/834910/ATLAS/
 Так же, принимаются пожертвования в виде подарков, скинов Steam:
 https://steamcommunity.com/id/mindrider
 
-Места перевода для которых разработчики игры не выложили переменные (невозможно перевести) для перевода:
-
-В меню: COMPANY CHAT:, TOGGLE MARKER TEXT:, ENABLE DETAILED GRAPHICS
-В режиме нанесения татуировок: APPLY TATTOO
-Ресурс: Toxic Sludge, Nitro Fertilizer
+В некоторых местах перевода разработчики игры не выложили переменные (их пока невозможно перевести), создания её вручную, не сработает
 
 
