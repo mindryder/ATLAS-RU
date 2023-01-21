@@ -70,7 +70,6 @@
 
 ## Скриншоты
 
-![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/2.png)
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/3.png)
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/4.png)
