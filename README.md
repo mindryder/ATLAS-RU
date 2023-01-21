@@ -1,13 +1,14 @@
 <div align="center"><img src="https://github.com/mindryder/ATLAS-RU/raw/main/preview/atlas.png" width="250" alt="atlas game logo" align="center" style="max-width: 100%;">
 # ATLAS-RU-MindRyder
 </div>
-![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
+
 
 [![Github All Releases](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 [![GitHub release](https://img.shields.io/github/release/mindryder/ATLAS-RU.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
 [![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
 
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
 ## Описание
 
 Полноценный русификатор игры [ATLAS](https://store.steampowered.com/app/834910/ATLAS/), с добавлением стилизованных пиратских шрифтов поддерживающих кириллицу, с правильным форматированием шрифта и атмосферой погружения в приключения просторов красивых морей. Цель стоит не просто перевести игру, а добавить ощущение погружения романтики пиратства и путешествий.
