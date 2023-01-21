@@ -6,7 +6,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 [![GitHub release](https://img.shields.io/github/release/mindryder/ATLAS-RU.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
-[![DonationAlerts donate](https://img.shields.io/badge/DonationAlerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
+[![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
 
 ## Описание
 
