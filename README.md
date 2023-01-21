@@ -5,7 +5,7 @@
 
 [![Github last commit date](https://img.shields.io/github/last-commit/mindryder/ATLAS-RU.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/commits)
 [![Total downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases)
-[![License](https://img.shields.io/github/license/mindryder/ATLAS-RU.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/JustArchiNET/ATLAS-RU/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/github/license/mindryder/ATLAS-RU.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/mindryder/ATLAS-RU/blob/main/LICENSE.txt)
 [![GitHub stable release version](https://img.shields.io/github/v/release/mindryder/ATLAS-RU.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![GitHub stable release date](https://img.shields.io/github/release-date/mindryder/ATLAS-RU.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![Github stable release downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
