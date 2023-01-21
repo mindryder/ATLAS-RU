@@ -11,9 +11,7 @@ https://store.steampowered.com/app/834910/ATLAS/
 
 Оставляйте свои предложения по поводу перевода и комментарии в дискусиях. Вместе с вашим комментарием или сообщением о найденной проблеме вам стоит предоставить скриншот или точное описание, где в игре встречается найденный фрагмент текста.
 
-![Иллюстрация к проекту](https://i.imgur.com/4tSx6Vk.jpeg)
 
-![Image alt](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
 
 
 Так же, принимаются пожертвования в виде подарков, скинов Steam:
@@ -23,3 +21,6 @@ https://steamcommunity.com/id/mindrider
 
 ## Скриншоты
 
+![Иллюстрация к проекту](https://i.imgur.com/4tSx6Vk.jpeg)
+
+![Image alt](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
