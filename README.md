@@ -3,11 +3,17 @@
 # ATLAS-RU-MindRyder
 </div>
 
-[![Github All Releases](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
-[![GitHub release](https://img.shields.io/github/release/mindryder/ATLAS-RU.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
+[![Github last commit date](https://img.shields.io/github/last-commit/mindryder/ATLAS-RU.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/commits)
+[![Total downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases)
+[![License](https://img.shields.io/github/license/mindryder/ATLAS-RU.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/JustArchiNET/ATLAS-RU/blob/main/LICENSE.txt)
+[![GitHub stable release version](https://img.shields.io/github/v/release/mindryder/ATLAS-RU.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
+[![GitHub stable release date](https://img.shields.io/github/release-date/mindryder/ATLAS-RU.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
+[![Github stable release downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
+
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
 [![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
 
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
 ## Описание
 
 Полноценный русификатор игры [ATLAS](https://store.steampowered.com/app/834910/ATLAS/), с добавлением стилизованных пиратских шрифтов поддерживающих кириллицу, с правильным форматированием шрифта и атмосферой погружения в приключения просторов красивых морей. Цель стоит не просто перевести игру, а добавить ощущение погружения романтики пиратства и путешествий.
@@ -53,6 +59,8 @@
 ```
 -culture=ru8
 ```
+<div align="center"><img src="https://github.com/mindryder/ATLAS-RU/raw/main/русификатор/Установка.png" width="600" alt="atlas game logo" align="center" style="max-width: 100%;"></div>
+
 ### Вариант Замены:
 
 1. Заменить файлы в папке ru
@@ -67,8 +75,36 @@
 (Перенеся в папку шрифты из Параметров или Панели Управления)
 ```
 
+## Скачать
+
+Последнюю версию архива .RAR перевода, всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
+
 ## Скриншоты
+
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/2.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/3.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/4.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/5.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/6.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/7.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/8.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/9.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/10.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/11.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/12.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/13.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/14.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/15.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/16.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/17.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/18.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/19.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/20.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/21.png)
+![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/22.png)
 
 ## Скриншоты с Альтернативным Шрифтом (Опционально)
 
-![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/1.png)
+![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font1.png)
+![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2.png)
+![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font3.png)
