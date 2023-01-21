@@ -6,6 +6,8 @@
 [![Github All Releases](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 [![GitHub release](https://img.shields.io/github/release/mindryder/ATLAS-RU.svg?style=flat&logo=github)](https://github.com/mindryder/ATLAS-RU/releases)
 
+## Описание
+
 Полноценный русификатор игры [ATLAS](https://store.steampowered.com/app/834910/ATLAS/), с добавлением стилизованных пиратских шрифтов
 
 
