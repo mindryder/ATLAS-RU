@@ -75,6 +75,10 @@
 (Перенеся в папку шрифты из Параметров или Панели Управления)
 ```
 
+## Скачать
+
+Последнюю версию всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
+
 ## Скриншоты
 
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/2.png)
