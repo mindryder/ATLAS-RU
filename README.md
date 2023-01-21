@@ -51,6 +51,7 @@
 3. В Библиотеке Steam открыв Свойства игры (ПКМ по ATLAS в списке игр).
 На основной вкладке в поле "Параметры запуска". 
 Вводим параметр запуска: "-culture=ru8" (без кавычек).
+<div align="center"><img src="https://github.com/mindryder/ATLAS-RU/raw/main/русификатор/Установка.png" width="600" alt="atlas game logo" align="center" style="max-width: 100%;">
 ```
 -culture=ru8
 ```
