@@ -9,6 +9,7 @@
 [![GitHub stable release version](https://img.shields.io/github/v/release/mindryder/ATLAS-RU.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![GitHub stable release date](https://img.shields.io/github/release-date/mindryder/ATLAS-RU.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![Github stable release downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
+
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
 [![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
 
