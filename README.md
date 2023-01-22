@@ -90,7 +90,7 @@
 ---
 ## Скачать
 
-Последнюю версию архива .RAR перевода, всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
+Последнюю версию архива .RAR перевода, всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/latest).
 
 ---
 ## Скриншоты
