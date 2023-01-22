@@ -5,7 +5,7 @@
 
 [![Github last commit date](https://img.shields.io/github/last-commit/mindryder/ATLAS-RU.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/commits)
 [![Total downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases)
-[![License](https://img.shields.io/github/license/mindryder/ATLAS-RU.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/JustArchiNET/ATLAS-RU/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/github/license/mindryder/ATLAS-RU.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/mindryder/ATLAS-RU/blob/main/LICENSE.txt)
 [![GitHub stable release version](https://img.shields.io/github/v/release/mindryder/ATLAS-RU.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![GitHub stable release date](https://img.shields.io/github/release-date/mindryder/ATLAS-RU.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![Github stable release downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
@@ -23,14 +23,25 @@
 - Полноценный перевод (работа ещё продолжается, идет перевод всех предметов)
 - В некоторых местах перевода разработчики игры не выложили переменные (их пока невозможно перевести)
 - К сожалению ещё не отследил шрифт использующийся на карте, кириллица не отображается
+---
+## Шрифты
 
+Для тех кому шрифт слишком маленький и плохочитабельный есть два других на выбор, см. [скриншоты внизу](https://github.com/mindryder/ATLAS-RU/blob/main/README.md#%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B-%D1%81-%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC-%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%BC-%D0%BE%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE). 
+
+- [альтернативный шрифт](https://github.com/mindryder/ATLAS-RU/blob/main/README.md#%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B-%D1%81-%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC-%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%BC-%D0%BE%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE) - сборка обычных шрифтов но более приятных чем стандартные 
+- [альтернативный шрифт II](https://github.com/mindryder/ATLAS-RU/blob/main/README.md#%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B-%D1%81-%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC-%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D0%BC-ii-%D0%BE%D0%BF%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE) - более легкая версия пиратского шрифта, блоки предметов более крупные и читабельные
+
+- Установить вы можете какой больше нравится, выбрав подходящий, закиньте в ту папку файл перевода ShooterGame.locres
+- Установить только перевод без шрифтов, файл - ShooterGame.locres (если у вас есть свои шрифты)
+
+---
 ## Помощь в Переводе
 
 Мне нужна ваша помощь и поддержка: нужна помощь в поиске оставшихся ошибок/неточностей/опечаток/пропущенного перевода. Ваша конструктивная критика только приветствуется!
 
 Оставляйте свои предложения по поводу перевода и комментарии в [дискуссиях](https://github.com/mindryder/ATLAS-RU/discussions). Вместе с вашим комментарием или сообщением о найденной проблеме вам стоит предоставить скриншот или точное описание, где в игре встречается найденный фрагмент текста.
 
-
+---
 ## Пожертвования Проекту
 
 Силы сами себя не найдут. Если решили помочь в развитии перевода материально. 
@@ -38,6 +49,7 @@
 Пожертвования через [Donation Alerts](https://www.donationalerts.com/r/mindryder).
 Так же, принимаются пожертвования в виде [гифтов, скинов Steam](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e).
 
+---
 ## Установка
 
 ### Вариант Отдельным Языком:
@@ -75,10 +87,12 @@
 (Перенеся в папку шрифты из Параметров или Панели Управления)
 ```
 
+---
 ## Скачать
 
 Последнюю версию архива .RAR перевода, всегда можно [скачать здесь](https://github.com/mindryder/ATLAS-RU/releases/tag/release).
 
+---
 ## Скриншоты
 
 ![ATLAS-RU](https://github.com/mindryder/ATLAS-RU/raw/main/preview/2.png)
@@ -108,3 +122,11 @@
 ![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font1.png)
 ![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2.png)
 ![Альтернативный Шрифт](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font3.png)
+
+## Скриншоты с Альтернативным Шрифтом II (Опционально)
+
+![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_1.png)
+![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_2.png)
+![Альтернативный Шрифт II](https://github.com/mindryder/ATLAS-RU/raw/main/preview/alt_font2_3.png)
+
+[[Обратно вверх]](https://github.com/mindryder/ATLAS-RU#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
