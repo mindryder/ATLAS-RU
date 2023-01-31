@@ -46,7 +46,8 @@
 
 Силы сами себя не найдут. Если решили помочь в развитии перевода материально. 
 
-Пожертвования через [Donation Alerts](https://www.donationalerts.com/r/mindryder).
+Пожертвования через [Donation Alerts](https://www.donationalerts.com/r/mindryder) для RU.
+Пожертвования через [Donatello](https://donatello.to/MindRyder) для UA.
 Так же, принимаются пожертвования в виде [гифтов, скинов Steam](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e).
 
 ---
