@@ -9,7 +9,8 @@
 [![GitHub stable release version](https://img.shields.io/github/v/release/mindryder/ATLAS-RU.svg?label=Stable&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![GitHub stable release date](https://img.shields.io/github/release-date/mindryder/ATLAS-RU.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
 [![Github stable release downloads](https://img.shields.io/github/downloads/mindryder/ATLAS-RU/latest/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/mindryder/ATLAS-RU/releases/latest)
-[![Discord](https://img.shields.io/discord/472567888549773313.svg?color=7289da&label=Discord%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B8%D1%85%20%D0%BF%D0%BE%20%D0%B8%D0%B3%D1%80%D0%B5%20ATLAS&logo=discord&logoColor=white&cacheSeconds=3600)](https://discord.gg/FAMBjBt)[![Discord](https://discord.com/api/guilds/472567888549773313/widget.png)](https://discord.gg/FAMBjBt)
+[![Discord](https://img.shields.io/discord/472567888549773313.svg?color=7289da&label=Discord%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%89%D0%B8%D1%85%20%D0%BF%D0%BE%20%D0%B8%D0%B3%D1%80%D0%B5%20ATLAS&logo=discord&logoColor=white&cacheSeconds=3600)](https://discord.gg/FAMBjBt)
+[![Discord](https://discord.com/api/guilds/472567888549773313/widget.png)](https://discord.gg/FAMBjBt)
 
 [![Steam donate](https://img.shields.io/badge/Steam-donate-000000.svg?logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=14288470&amp;token=1JHFSV4e)
 [![DonationAlerts donate](https://img.shields.io/badge/Donation%20Alerts-donate-blueviolet)](https://www.donationalerts.com/r/mindryder)
